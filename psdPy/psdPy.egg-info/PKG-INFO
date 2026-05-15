@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: psdPy
+Version: 0.1.0
+Summary: Python implementation of scPSD
+Author: Forrest Koch
+Author-email: forrest.c.koch@gmail.com
+License-File: LICENSE.txt
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: scipy>=1.7.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

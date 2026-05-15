@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+psdPy/__init__.py
+psdPy/_func.py
+psdPy.egg-info/PKG-INFO
+psdPy.egg-info/SOURCES.txt
+psdPy.egg-info/dependency_links.txt
+psdPy.egg-info/requires.txt
+psdPy.egg-info/top_level.txt

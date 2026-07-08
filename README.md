@@ -84,4 +84,4 @@ PS：Feature Embedding Files and Their Dimensions
 - 2998 cells
 
 ## Contact Us
-If you have any questions or suggestions, please contact us via email: [sunn19@tsinghua.org.cn].
+If you have any questions or suggestions, please contact us via email:.
